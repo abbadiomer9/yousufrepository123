@@ -1,1 +1,1 @@
-example file
+example file. I have updated new line for stash.
